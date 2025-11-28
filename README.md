@@ -8,7 +8,7 @@ Explore each section below:
 ---
 
 ## 🟦 Per Scholas Security Labs
-Hands-on SOC investigations, VPN configuration, firewalls, and IDS/IPS analysis.
+Hands-on cisco packet tracer SOC investigations, VPN configuration, firewalls, and IDS/IPS analysis.
 
 ➡ **[View All Per Scholas Labs](https://github.com/Pelumi-Johnson/Per-Scholas-Labs/tree/main)**
 
