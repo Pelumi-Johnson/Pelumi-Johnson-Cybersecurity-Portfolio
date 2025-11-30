@@ -38,7 +38,7 @@ AWS and cloud security labs, including VPC design, IAM, EC2 hardening, and S3 se
 ## 🟩 Personal Cyber Labs & Research
 Independent projects, web security testing, SOC simulations, and enumeration labs.
 
-➡ **[View Personal Labs](./Personal-Cyber-Labs)**
+➡ **[View Personal Labs](https://github.com/Pelumi-Johnson/Personal-Cyber-Labs-Research/tree/main)**
 
 ---
 
