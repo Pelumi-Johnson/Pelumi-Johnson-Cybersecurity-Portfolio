@@ -16,7 +16,7 @@ Hands-on cisco packet tracer SOC investigations, VPN configuration, firewalls, a
 ## 🟧 UMGC Academic Projects
 Cloud architecture designs, network troubleshooting labs, and secure system builds.
 
-➡ **[View UMGC Projects](./UMGC-Course-Projects)**
+➡ **[View UMGC Projects](https://github.com/Pelumi-Johnson/Cloud-Infrastructure-Projects/tree/main)**
 
 ---
 
