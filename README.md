@@ -44,4 +44,5 @@ Independent projects, web security testing, SOC simulations, and enumeration lab
 ## 📫 Contact
 **Email:** Pelumijohnson1999@gmail.com  
 **GitHub:** https://github.com/Pelumi-Johnson  
+**Linkedin**  https://www.linkedin.com/in/lumithecyberlion/
 
