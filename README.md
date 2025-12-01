@@ -3,7 +3,6 @@
 A curated collection of security labs, projects, and hands-on work completed across  
 **Per Scholas**, **UMGC**, **Personal Labs**, and **Raspberry Pi Security Builds**.
 
-Explore each section below:
 
 ---
 
