@@ -30,7 +30,7 @@ WireGuard VPN, system hardening, and self-hosted services for real-world securit
 ## ☁️ Cloud Labs
 AWS and cloud security labs, including VPC design, IAM, EC2 hardening, and S3 security.
 
-➡ **[View Cloud Labs](./Cloud-Labs)**
+➡ **[View Cloud Labs](https://github.com/Pelumi-Johnson/Cloud-Labs)**
 
 ---
 
