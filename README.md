@@ -6,13 +6,6 @@ A curated collection of security labs, projects, and hands-on work completed acr
 
 ---
 
-## 🟦 Per Scholas Security Labs
-Hands-on cisco packet tracer SOC investigations, VPN configuration, firewalls, and IDS/IPS analysis.
-
-➡ **[View All Per Scholas Labs](https://github.com/Pelumi-Johnson/Per-Scholas-Labs/tree/main)**
-
----
-
 ## 🟧 UMGC Academic Projects
 Cloud architecture designs, network troubleshooting labs, and secure system builds.
 
@@ -20,10 +13,17 @@ Cloud architecture designs, network troubleshooting labs, and secure system buil
 
 ---
 
-## 🟥 Raspberry Pi Security Projects
-WireGuard VPN, system hardening, and self-hosted services for real-world security practice.
+## 🟦 Per Scholas Security Labs
+Hands-on cisco packet tracer SOC investigations, VPN configuration, firewalls, and IDS/IPS analysis.
 
-➡ **[View Raspberry Pi Projects](./Raspberry-Pi-Security)**
+➡ **[View All Per Scholas Labs](https://github.com/Pelumi-Johnson/Per-Scholas-Labs/tree/main)**
+
+---
+
+## 🟩 Personal Cyber Labs & Research
+Independent projects, web security testing, SOC simulations, and enumeration labs.
+
+➡ **[View Personal Labs](https://github.com/Pelumi-Johnson/Personal-Cyber-Labs-Research/tree/main)**
 
 ---
 
@@ -34,10 +34,10 @@ AWS and cloud security labs, including VPC design, IAM, EC2 hardening, and S3 se
 
 ---
 
-## 🟩 Personal Cyber Labs & Research
-Independent projects, web security testing, SOC simulations, and enumeration labs.
+## 🟥 Raspberry Pi Security Projects
+WireGuard VPN, system hardening, and self-hosted services for real-world security practice.
 
-➡ **[View Personal Labs](https://github.com/Pelumi-Johnson/Personal-Cyber-Labs-Research/tree/main)**
+➡ **[View Raspberry Pi Projects](./Raspberry-Pi-Security)**
 
 ---
 
