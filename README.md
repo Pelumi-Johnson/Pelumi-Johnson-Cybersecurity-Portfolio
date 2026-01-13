@@ -34,7 +34,7 @@ AWS and cloud security labs, including VPC design, IAM, EC2 hardening, and S3 se
 
 ---
 
-## 🟥 Raspberry Pi Security Projects
+## 🍓 Raspberry Pi Security Projects
 WireGuard VPN, system hardening, and self-hosted services for real-world security practice.
 
 ➡ **[View Raspberry Pi Projects](https://github.com/Pelumi-Johnson/Raspberry-Pi-Security-Projects/tree/main)**
